@@ -1,6 +1,19 @@
 # Stoccer!
 FinTech Project: Valentina Buritica, Jeff Berger, Aidan Dowdle, &amp; Aaron Devaney<br>
 
+#Intro
+Stoccer is the comparison of investing in ownership of a soccer team vs investing through normal conventions.<br>
+We deided that the acquisition of the Paris Saint German (PSG) football team by the King of Qatar would be the ideal<br>
+case study to show the true ROI post acquisition as well as the upfront and continuious reinvestment costs of having a<br>
+successful team. As background, European Football's free agency market operates differently than the big four sports in the US.<br>
+It is structured similarly to that of the stock market where each individual player functions similarly to a firm listed on<br>
+the NYSE. The value of each player is determined based off of their performance on the pitch and the additional endorsements,<br>
+sales of merchandise and added ticket value that they could bring to the club. Since this is a free market accross all European<br>
+Leagues, clubs compete with each other for the acquisition of new players. This does lead to parity in the leagues with respect to<br>
+teams who have more capital to spend. Through this case study, we will provide a breakdown of where transfers are coming from, analysis<br>
+on the top performing teams in Europe oregarding their transfer spending and team statistics, analysis on the effective spending of PSG<br>
+specifically and an overall comparison of the investment by the King against the stock market.
+
 
 
 
