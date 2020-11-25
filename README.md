@@ -1,4 +1,4 @@
-# project_one
+# Stoccer
 FinTech Project: Valentina Buritica, Jeff Berger, Aidan Dowdle, &amp; Aaron Devaney<br>
 
 
