@@ -94,16 +94,16 @@ in playmakers rather than goal scorers. As a note, the data tails off due to sto
 COVID-19 Pandemic.
 
 #Goals Per 90 Minutes Played
-![gls_per_90](https://github.com/dowdlea86/project_one_submission/blob/main/png_file/top_team_comparison_gls_per_90.png)
+![top_team_comparison_gls_per_90](https://github.com/dowdlea86/project_one_submission/blob/main/png_file/top_team_comparison_gls_per_90.png)
 
 #Assists Per 90 Minutes Played
-![ast_per_90](https://github.com/dowdlea86/project_one_submission/blob/main/png_file/top_team_comparison_ast_per_90.png)
+![top_team_comparison_ast_per_90](https://github.com/dowdlea86/project_one_submission/blob/main/png_file/top_team_comparison_ast_per_90.png)
 
 #Total Goals Scored
-![total_gls](https://github.com/dowdlea86/project_one_submission/blob/main/png_file/top_team_comparison_gls.png)
+![top_team_comparison_gls](https://github.com/dowdlea86/project_one_submission/blob/main/png_file/top_team_comparison_gls.png)
 
 #Total Assists
-![total_ast](https://github.com/dowdlea86/project_one_submission/blob/main/png_file/top_team_comparison_ast.png)
+![top_team_comparison_ast](https://github.com/dowdlea86/project_one_submission/blob/main/png_file/top_team_comparison_ast.png)
 
 ## Does buying the big-name player bring a large ROI?
 
