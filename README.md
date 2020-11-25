@@ -1,7 +1,7 @@
 # Stoccer!
 FinTech Project: Valentina Buritica, Jeff Berger, Aidan Dowdle, &amp; Aaron Devaney<br>
 
-# #Introduction 
+## Introduction 
 
 Stoccer is the comparison of investing in ownership of a soccer team vs investing<br>
 through normal conventions. We decided that the acquisition of the Paris Saint German (PSG)<br>
