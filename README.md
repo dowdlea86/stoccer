@@ -1,7 +1,8 @@
 # Stoccer!
 FinTech Project: Valentina Buritica, Jeff Berger, Aidan Dowdle, &amp; Aaron Devaney<br>
 
-#Intro
+# Intro
+
 Stoccer is the comparison of investing in ownership of a soccer team vs investing through normal conventions.<br>
 We deided that the acquisition of the Paris Saint German (PSG) football team by the King of Qatar would be the ideal<br>
 case study to show the true ROI post acquisition as well as the upfront and continuious reinvestment costs of having a<br>
