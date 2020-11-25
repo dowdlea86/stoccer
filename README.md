@@ -5,7 +5,7 @@ FinTech Project: Valentina Buritica, Jeff Berger, Aidan Dowdle, &amp; Aaron Deva
 
 Stoccer is the comparison of investing in ownership of a soccer team vs investing<br>
 through normal conventions. We decided that the acquisition of the Paris Saint German (PSG)<br>
-football team by the King of Qatar would be the ideal case study to show the true<br>
+football team by the Emir of Qatar would be the ideal case study to show the true<br>
 ROI post acquisition as well as the upfront and continuous reinvestment costs of having a<br>
 successful team. As background, European Football's free agency market operates<br>
 differently than the big four sports in the US. It is structured similarly to that of<br>
@@ -18,7 +18,7 @@ lead to parity in the leagues with respect to teams who have more capital to spe
 Through this case study, we will provide a breakdown of where transfers are coming from,<br>
 analysis the top performing teams in Europe regarding their transfer spending and<br>
 team statistics, analysis on the effective spending of PSG specifically and an overall<br>
-comparison of the investment by the King against the stock market.
+comparison of the investment by the Emir against the stock market.
 
 ## Overview of European Soccer Transfer Market 
 #### Top 20 Teams in the 2013-2014 Season 
@@ -86,7 +86,7 @@ We used data from a list produced by Deloitte that lists the European soccer clu
 
 ## How does PSG stack up statistically with other top teams?
 
-As the King invested and brought in players, the overall output increased to the levels of top performing teams<br>
+As the Emir invested and brought in players, the overall output increased to the levels of top performing teams<br>
 and outperformed them in certain statistical categories. In 2018, PSG significantly outperformed top teams in<br>
 goals averaged per 90 minutes played and this number trended consistently upward since the acquisition. However,<br>
 assists per 90 stayed relatively stagnant in comparison. This may be an indication of a need for additional investment<br>
