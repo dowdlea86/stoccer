@@ -1,0 +1,96 @@
+﻿season,name,transfer_fee,team_from,from_lat,from_long,team_to,to_lat,to_long,league
+2013-2014,Mamadou Sakho,19000000,Paris SG,48.8414,2.253,Liverpool F.C.,53.4308,-2.9608,French
+2013-2014,Kevin Gameiro,7500000,Paris SG,48.8414,2.253,Sevilla FC,37.3841,-5.9707,French
+2013-2014,Edinson Cavani,64500000,S.S.C Napoli,40.8279,14.1931,Paris SG,48.8414,2.253,French
+2013-2014,Marquinhos,31400000,A.S. Roma,41.9341,12.4547,Paris SG,48.8414,2.253,French
+2013-2014,Yohan Cabaye,25000000,Newcastle United F.C. ,54.9756,-1.6217,Paris SG,48.8414,2.253,French
+2013-2014,Lucas Digne,15000000,Lille OSC,50.612,3.1305,Paris SG,48.8414,2.253,French
+2013-2014,James Rodriguez,45000000,FC Porto,41.1618,-8.5836,AS Monaco FC,43.7276,7.4157,French
+2013-2014,Falcao,43000000,Atletico Madrid,40.4362,-3.5995,AS Monaco FC,43.7276,7.4157,French
+2013-2014,Joao Moutinho,25000000,FC Porto,41.1618,-8.5836,AS Monaco FC,43.7276,7.4157,French
+2013-2014,Geoffrey Kondogbia,20000000,Sevilla FC,37.3841,-5.9707,AS Monaco FC,43.7276,7.4157,French
+2013-2014,Lacina Traore,10000000,Anzhi Makhachkala,42.9078,47.6184,AS Monaco FC,43.7276,7.4157,French
+2013-2014,Jeremy Toulalan,5000000,Malaga CF,36.7336,-4.4267,AS Monaco FC,43.7276,7.4157,French
+2013-2014,Anthony Martial,5000000,Olympique Lyonnais (Lyon),45.7653,4.982,AS Monaco FC,43.7276,7.4157,French
+2013-2014,Nicolas Isimat-Mirin,4000000,Valenciennes FC,50.3484,3.5318,AS Monaco FC,43.7276,7.4157,French
+2013-2014,Dejan Lovren,10000000,Olympique Lyonnais (Lyon),45.7653,4.982,Southampton F.C.,50.9058,-1.391,French
+2013-2014,Lisandro Lopez,7200000,Olympique Lyonnais (Lyon),45.7653,4.982,Al Gharafa SC,25.3448,51.4405,French
+2013-2014,Michel Bastos,4000000,Olympique Lyonnais (Lyon),45.7653,4.982,Al-Ain FC,24.245,55.7171,French
+2013-2014,Florian Thauvin,12000000,Lille OSC,50.612,3.1305,Olympique de Marseille (Marseille),43.2698,5.3959,French
+2013-2014,Dimitri Payet,8700000,Lille OSC,50.612,3.1305,Olympique de Marseille (Marseille),43.2698,5.3959,French
+2013-2014,Giannelli Imbula,7500000,En Avant Guingamp,48.5661,-3.1644,Olympique de Marseille (Marseille),43.2698,5.3959,French
+2013-2014,Benjamin Mendy,4000000,Le Havre AC,49.4993,0.1693,Olympique de Marseille (Marseille),43.2698,5.3959,French
+2013-2014,Fernandinho,40000000,FC Shakhtar Donetsk,48.020981,37.810146,Manchester City F.C.,53.4831,-2.2004,English 
+2013-2014,Stevan Jovetic,26000000,ACF Fiorentina,43.7808,11.2826,Manchester City F.C.,53.4831,-2.2004,English 
+2013-2014,Alvaro Negredo,25000000,Sevilla FC,37.3841,-5.9707,Manchester City F.C.,53.4831,-2.2004,English 
+2013-2014,Jesus Navas,20000000,Sevilla FC,37.3841,-5.9707,Manchester City F.C.,53.4831,-2.2004,English 
+2013-2014,Martin Demichelis,5000000,Atletico Madrid,40.4362,-3.5995,Manchester City F.C.,53.4831,-2.2004,English 
+2013-2014,Carlos Tevez,9000000,Manchester City F.C.,53.4831,-2.2004,Juventus F.C,45.1096,7.6412,English 
+2013-2014,Juan Mata,44730000,Chelsea F.C.,51.4817,-0.191,Manchester United F.C.,53.4631,-2.2913,English 
+2013-2014,Marouane Fellaini,32400000,Everton FC,53.4388,-2.9663,Manchester United F.C.,53.4631,-2.2913,English 
+2013-2014,Kevin De Bruyne,22000000,Chelsea F.C.,51.4817,-0.191,VfL Wolfsburg,52.4327,10.8039,English 
+2013-2014,Willian,35500000,Anzhi Makhachkala,42.9078,47.6184,Chelsea F.C.,51.4817,-0.191,English 
+2013-2014,Nemanja Matic,25000000,S.L. Benfica,38.7527,-9.1848,Chelsea F.C.,51.4817,-0.191,English 
+2013-2014,Andre Schurrle,22000000,Bayer 04 Leverkusen,51.0382,7.0023,Chelsea F.C.,51.4817,-0.191,English 
+2013-2014,Mohamed Salah,16500000,FC Basel,47.5416,7.6201,Chelsea F.C.,51.4817,-0.191,English 
+2013-2014,Kurt Zouma,14600000,AS Saint-Etienne,45.4608,4.3902,Chelsea F.C.,51.4817,-0.191,English 
+2013-2014,Marco van Ginkel,9400000,SBV Vitesse,51.9628,5.8929,Chelsea F.C.,51.4817,-0.191,English 
+2013-2014,Gervinho,8000000,Arsenal F.C.,51.5549,0.1084,A.S. Roma,41.9341,12.4547,English 
+2013-2014,Mesut Ozil,47000000,Real Madrid C.F.,40.453,-3.6883,Arsenal F.C.,51.5549,0.1084,English 
+2013-2014,Erik Lamela,30000000,AS Roma,41.9341,12.4547,Tottenham Hotspur F.C. (Spurs),51.6043,-0.0664,Italian 
+2013-2014,Daniel Osvaldo,15100000,AS Roma,41.9341,12.4547,Southampton F.C.,50.9058,-1.391,Italian 
+2013-2014,Bojan Krkic,13000000,AS Roma,41.9341,12.4547,FC Barcelona,41.3809,2.1228,Italian 
+2013-2014,Michael Bradley,7400000,AS Roma,41.9341,12.4547,Toronto FC,43.6332,-79.4186,Italian 
+2013-2014,Maarten Stekelenburg,5600000,AS Roma,41.9341,12.4547,Fulham F.C. ,51.4749,-0.2218,Italian 
+2013-2014,Nicolas Lopez,4000000,AS Roma,41.9341,12.4547,Udinese Calcio,46.0815,13.1998,Italian 
+2013-2014,Kevin Strootman,17500000,PSV Eindhoven,51.4417,5.4674,AS Roma,41.9341,12.4547,Italian 
+2013-2014,Medhi Benatia,13500000,Udinese Calcio,46.0815,13.1998,AS Roma,41.9341,12.4547,Italian 
+2013-2014,Adem Ljajic,12000000,ACF Fiorentina,43.7808,11.2826,AS Roma,41.9341,12.4547,Italian 
+2013-2014,Tin Jedvaj,5000000,GNK Dinamo Zagreb,45.8184,16.0178,AS Roma,41.9341,12.4547,Italian 
+2013-2014,Mattia Destro,4500000,Genoa C.F.C,44.4165,8.9525,AS Roma,41.9341,12.4547,Italian 
+2013-2014,Angelo Ogbonna,15000000,Torino F.C,45.0418,7.6501,Juventus F.C,45.1096,7.6412,Italian 
+2013-2014,Federico Peluso,4800000,Atalanta F.C. ,45.7092,9.6808,Juventus F.C,45.1096,7.6412,Italian 
+2013-2014,Domenico Berardi,4500000,Sassuolo,44.7153,10.6495,Juventus F.C,45.1096,7.6412,Italian 
+2013-2014,Manolo Gabbiadini,11500000,Juventus F.C,45.1096,7.6412,U.C. Sampdoria,44.4165,8.9525,Italian 
+2013-2014,Alessandro Matri,11000000,Juventus F.C,45.1096,7.6412,A.C. Milan,45.4781,9.124,Italian 
+2013-2014,Simone Zaza,10000000,Juventus F.C,45.1096,7.6412,Sassuolo,44.7153,10.6495,Italian 
+2013-2014,Emanuele Giaccherini,7500000,Juventus F.C,45.1096,7.6412,Sunderland A.F.C,54.9146,-1.3884,Italian 
+2013-2014,Luca Marrone,4500000,Juventus F.C,45.1096,7.6412,Sassuolo,44.7153,10.6495,Italian 
+2013-2014,Lucas Biglia,8400000,R.S.C Anderlecht,50.8341,4.2989,SS Lazio,41.9341,12.4547,Italian 
+2013-2014,Antonio Candreva,8200000,Udinese Calcio,46.0815,13.1998,SS Lazio,41.9341,12.4547,Italian 
+2013-2014,Felipe Anderson,7500000,Santos FC,-23.9511,-46.3389,SS Lazio,41.9341,12.4547,Italian 
+2013-2014,Hernanes,18000000,SS Lazio,41.9341,12.4547,Inter Milan,45.4781,9.124,Italian 
+2013-2014,Libor Kozak,6500000,SS Lazio,41.9341,12.4547,Aston Villa F.C.,52.5091,-1.8848,Italian 
+2013-2014,Juan Cuadrado,20000000,Udinese Calcio,46.0815,13.1998,ACF Fiorentina,43.7808,11.2826,Italian 
+2013-2014,Mario Gomez,15500000,FC Bayern Munich,48.2188,11.6248,ACF Fiorentina,43.7808,11.2826,Italian 
+2013-2014,Josip Ilicic,9000000,Palermo F.C. ,38.1527,13.3422,ACF Fiorentina,43.7808,11.2826,Italian 
+2013-2014,Ante Rebic,4500000,RNK Split,43.5192,16.4442,ACF Fiorentina,43.7808,11.2826,Italian 
+2013-2014,Thiago,25000000,FC Barcelona,41.3809,2.1228,FC Bayern Munich,48.2188,11.6248,Spanish
+2013-2014,Neymar,88200000,Santos FC,-23.9511,-46.3389,FC Barcelona,41.3809,2.1228,Spanish
+2013-2014,Gonzalo Higuain,39000000,Real Madrid C.F.,40.453,-3.6883,SSC Napoli,40.8279,14.1931,Spanish
+2013-2014,Raul Albiol,12000000,Real Madrid C.F.,40.453,-3.6883,SSC Napoli,40.8279,14.1931,Spanish
+2013-2014,Jose Callejon,9500000,Real Madrid C.F.,40.453,-3.6883,SSC Napoli,40.8279,14.1931,Spanish
+2013-2014,Pedro Leon,6000000,Real Madrid C.F.,40.453,-3.6883,Getafe CF,40.3257,-3.7149,Spanish
+2013-2014,Gareth Bale,101000000,Tottenham Hotspur F.C. (Spurs),51.6043,-0.0664,Real Madrid C.F.,40.453,-3.6883,Spanish
+2013-2014,Asier Illarramendi,32000000,Real Sociedad,43.3017,-1.9748,Real Madrid C.F.,40.453,-3.6883,Spanish
+2013-2014,Isco,30000000,Malaga CF,36.7336,-4.4267,Real Madrid C.F.,40.453,-3.6883,Spanish
+2013-2014,Daniel Carvajal,6500000,Bayer 04 Leverkusen,51.0382,7.0023,Real Madrid C.F.,40.453,-3.6883,Spanish
+2013-2014,Casemiro,6000000,Sao Paulo FC ,-23.6001,-46.7201,Real Madrid C.F.,40.453,-3.6883,Spanish
+2013-2014,Josuha Guilavogui,10000000,AS Saint-Etienne,45.4608,4.3902,Atletico Madrid,40.4362,-3.5995,Spanish
+2013-2014,Toby Alderweireld,7000000,AFC Ajax,52.3144,4.942,Atletico Madrid,40.4362,-3.5995,Spanish
+2013-2014,Leo Baptistao,7000000,Rayo Vallecano,40.3921,3.6587,Atletico Madrid,40.4362,-3.5995,Spanish
+2013-2014,Roberto,6000000,S.L. Benfica,38.7527,-9.1848,Atletico Madrid,40.4362,-3.5995,Spanish
+2013-2014,Pizzi,14000000,Atletico Madrid,40.4362,-3.5995,S.L. Benfica,38.7527,-9.1848,Spanish
+2013-2014,Joel Robles,4000000,Atletico Madrid,40.4362,-3.5995,Everton FC,53.4388,-2.9663,Spanish
+2013-2014,Roberto Soldado,30000000,Valencia CF,39.4747,-0.3586,Tottenham Hotspur F.C. (Spurs),51.6043,-0.0664,Spanish
+2013-2014,Tino Costa,6500000,Valencia CF,39.4747,-0.3586,FC Spartak Moscow,55.8178,37.4406,Spanish
+2013-2014,Dorlan Pabon,8000000,C.F. Monterrey,25.6682,-100.2445,Valencia CF,39.4747,-0.3586,Spanish
+2013-2014,Luiz Gustavo,16000000,FC Bayern Munich,48.2188,11.6248,VfL Wolfsburg,52.4327,10.8039,German
+2013-2014,Emre Can,5000000,FC Bayern Munich,48.2188,11.6248,Bayer 04 Leverkusen,51.0382,7.0023,German
+2013-2014,Mario Gotze,37000000,Borussia Dortmund,51.4926,7.4519,FC Bayern Munich,48.2188,11.6248,German
+2013-2014,Ja-cheol Koo,5000000,VfL Wolfsburg,52.4327,10.8039,1. FSV Mainz 05,49.9839,8.2244,German
+2013-2014,Timm Klose,6000000,1. FC Nuremberg,49.4263,11.1257,VfL Wolfsburg,52.4327,10.8039,German
+2013-2014,Daniel Caligiuri,4500000,SC Freiburg,47.9889,7.8929,VfL Wolfsburg,52.4327,10.8039,German
+2013-2014,Raffael,5000000,FC Dynamo Kyiv,50.4504,30.5351,Borussia Monchengladbach (M'Gladbach),51.1746,6.3855,German
+2013-2014,Heung-min Son,10000000,Hamburger SV,53.5871,9.8986,Bayer 04 Leverkusen,51.0382,7.0023,German
+2013-2014,Michal Kadlec,4500000,Bayer 04 Leverkusen,51.0382,7.0023,Fenerbahce S.K,40.9877,29.0368,German
