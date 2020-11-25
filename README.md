@@ -84,10 +84,18 @@ We used data from a list produced by Deloitte that lists the European soccer clu
 ![schalke_rev](https://github.com/dowdlea86/project_one_submission/blob/main/png_file/schalke_rev.png)
 
 
+#Does buying the big name player bring a large ROI?
 
+The short answer is not necessarily. After looking at the production levels of midfield and forward position players,<br>
+it was determined that some of the most expensive players were not actually worth the price paid in terms of production<br>
+on the field. Neymar is the perfect example of a player that came witha high price tag but has not been as productive in<br>
+his tenure at PSG. Zlatan Ibrahimović was acquired for a much lower fee and had a higher rate of production. However,<br>
+acquiring the big-name player does put fans in the stands and bring media attention to the club. This does need to be<br>
+factored into the ROI of a player that is being considered for acquisition. 
 
+![midfield_vs_forward_cost](https://github.com/dowdlea86/project_one_submission/blob/main/png_file/midfield_vs_forward_cost.png)
 
-
+![midfield_vs_forward_prod](https://github.com/dowdlea86/project_one_submission/blob/main/png_file/midfield_vs_forward_prod.png)
 
 
 
