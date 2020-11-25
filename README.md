@@ -15,7 +15,7 @@ accelerating uptick in the amount of points that PSG is winning.  Interestingly,
 seem to have up and down seasons where PSG has been able to maintain a steady top level of<br> 
 performance.<br>
 
-![total_points](https://github.com/buritica97/project_one/blob/main/png_file/total_points.png)
+![total_points](https://github.com/dowdlea86/project_one_submission/blob/main/png_file/total_points.png)
 
 Across European Soccer leagues, the winner of a given league is the team that collects the<br>
 most points after playing a season (38 games) against it’s competitors. Three points are<br> 
@@ -24,7 +24,7 @@ ponts at the end of the season winning the league title. Using the 2013-2014 top
 as a becnhmark across five leagues, the below graph is PSG’s total points versus the top 4<br> 
 competitors in each of the English, French, Spanish, German and Italian leagues.<br>
 
-![team_wins](https://github.com/buritica97/project_one/blob/main/png_file/team_wins.png)
+![team_wins](https://github.com/dowdlea86/project_one_submission/blob/main/png_file/team_wins.png)
 
 
 Goal differential data is an important indicator of how well a team is performing. A team<br> 
@@ -35,7 +35,7 @@ games by a lot larger margins than what its peers are doing. This demonstrates t
 that the team that PSG has put together is significantly more competitive and productive than<br> 
 the rest.<br>
 
-![goal_differential](https://github.com/buritica97/project_one/blob/main/png_file/goal_differential.png)
+![goal_differential](https://github.com/dowdlea86/project_one_submission/blob/main/png_file/goal_differential.png)
 
 
 
