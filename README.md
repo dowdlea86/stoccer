@@ -11,13 +11,13 @@ successful team. As background, European Football's free agency market operates<
 differently than the big four sports in the US. It is structured similarly to that of<br>
 the stock market where each individual player functions similarly to a firm listed on<br>
 the NYSE. The value of each player is determined based off of their performance on<br>
-the pitch and the additional endorsements,sales of merchandise and added ticket value<br>
-that they could bring to the club. Since this is a free market accross all European<br>
+the pitch and the additional endorsements, sales of merchandise and added ticket value<br>
+that they could bring to the club. Since this is a free market across all European<br>
 Leagues, clubs compete with each other for the acquisition of new players. This does<br>
-lead to parity in the leagues with respect toteams who have more capital to spend.<br>
+lead to parity in the leagues with respect to teams who have more capital to spend.<br>
 Through this case study, we will provide a breakdown of where transfers are coming from,<br>
-analysison the top performing teams in Europe oregarding their transfer spending and<br>
-team statistics, analysis on the effective spending of PSGspecifically and an overall<br>
+analysis the top performing teams in Europe regarding their transfer spending and<br>
+team statistics, analysis on the effective spending of PSG specifically and an overall<br>
 comparison of the investment by the King against the stock market.
 
 
