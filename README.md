@@ -93,16 +93,16 @@ assists per 90 stayed relatively stagnant in comparison. This may be an indicati
 in playmakers rather than goal scorers. As a note, the data tails off due to stoppage of play as a result of the<br>
 COVID-19 Pandemic.
 
-# Goals Per 90 Minutes Played
+### Goals Per 90 Minutes Played
 ![top_team_comparison_gls_per_90](png_file/top_team_comparison_gls_per_90.PNG)
 
-# Assists Per 90 Minutes Played
+### Assists Per 90 Minutes Played
 ![top_team_comparison_ast_per_90](png_file/top_team_comparison_ast_per_90.PNG)
 
-# Total Goals Scored
+### Total Goals Scored
 ![top_team_comparison_gls](png_file/top_team_comparison_gls.PNG)
 
-# Total Assists
+### Total Assists
 ![top_team_comparison_ast](png_file/top_team_comparison_ast.PNG)
 
 ## Does buying the big-name player bring a large ROI?
