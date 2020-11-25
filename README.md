@@ -20,8 +20,8 @@ analysis the top performing teams in Europe regarding their transfer spending an
 team statistics, analysis on the effective spending of PSG specifically and an overall<br>
 comparison of the investment by the King against the stock market.
 
-
-
+## Brief Overview of European Soccer Transfer Market 
+# Top 20 Teams in the 2013-2014 Season 
 
 
 
