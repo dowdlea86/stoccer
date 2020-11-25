@@ -84,6 +84,27 @@ We used data from a list produced by Deloitte that lists the European soccer clu
 ![schalke_rev](https://github.com/dowdlea86/project_one_submission/blob/main/png_file/schalke_rev.png)
 
 
+## How does PSG stack up statistically with other top teams?
+
+As the King invested and brought in players, the overall output increased to the levels of top performing teams<br>
+and outperformed them in certain statistical categories. In 2018, PSG significantly outperformed top teams in<br>
+goals averaged per 90 minutes played and this number trended consistently upward since the acquisition. However,<br>
+assists per 90 stayed relatively stagnant in comparison. This may be an indication of a need for additional investment<br>
+in playmakers rather than goal scorers. As a note, the data tails off due to stoppage of play as a result of the<br>
+COVID-19 Pandemic.
+
+#Goals Per 90 Minutes Played
+![gls_per_90](https://github.com/dowdlea86/project_one_submission/blob/main/png_file/top_team_comparison_gls_per_90.png)
+
+#Assists Per 90 Minutes Played
+![ast_per_90](https://github.com/dowdlea86/project_one_submission/blob/main/png_file/top_team_comparison_ast_per_90.png)
+
+#Total Goals Scored
+![total_gls](https://github.com/dowdlea86/project_one_submission/blob/main/png_file/top_team_comparison_gls.png)
+
+#Total Assists
+![total_ast](https://github.com/dowdlea86/project_one_submission/blob/main/png_file/top_team_comparison_ast.png)
+
 ## Does buying the big-name player bring a large ROI?
 
 The short answer is not necessarily. After looking at the production levels of midfield and forward position players,<br>
