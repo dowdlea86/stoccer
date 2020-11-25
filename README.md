@@ -100,8 +100,8 @@ factored into the ROI of a player that is being considered for acquisition.
 
 #### File Preview:
 
-psg_vs_market_dashboard : file with the most code that includes dashboard presentation of information<br>
-analysis_notebook_alpaca_api: file where alpaca API is used for stock analysis<br>
+psg_vs_market_dashboard: code file that includes dashboard presentation of information<br>
+analysis_notebook_alpaca_api: file where alpaca API used for stock analysis<br>
 Top_4_teams.ipynb: interavtive map that uses “folium” to show team locations on map<br>
 Project One: copy of presentation<br>
 
