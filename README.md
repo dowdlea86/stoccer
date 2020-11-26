@@ -43,8 +43,17 @@ to locate each team selected based on their stadium location.
 
 ### Transfer Market in the 2013-2014 Season 
 
+In addition, we wanted to create a visualization that would allow the end user to understand how busy the transfer <br>
+player market is during any given season. With this in mind we used Folium a Python library and GeoPandas to create a map <br>
+with lines representing the player transfer between teams. 
+
 ![transfer_market](https://github.com/dowdlea86/project_one_submission/blob/main/png_file/Transfer_Market.png)
 
+Please Note: For both of the visualizations above the following color code was utilized: 
+Red = French League 
+Blue = English League 
+Orange = Spanish League 
+Purple = German League 
 
 ##  Team Data 
 A central question to analyze how the team performed is to judge it's peformance against<br>
