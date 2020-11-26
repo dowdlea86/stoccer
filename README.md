@@ -22,7 +22,9 @@ comparison of the investment by the Emir against the stock market.
 
 ## Overview of European Soccer Transfer Market 
 #### Top 20 Teams in the 2013-2014 Season 
+![top_20_teams](https://github.com/dowdlea86/project_one_submission/blob/main/png_file/Top_20_Teams.png)
 
+![transfer_market](https://github.com/dowdlea86/project_one_submission/blob/main/png_file/Transfer_Market.png)
 
 
 ##  Team Data 
