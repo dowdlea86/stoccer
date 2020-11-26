@@ -49,11 +49,11 @@ with lines representing the player transferred between teams.
 
 ![transfer_market](https://github.com/dowdlea86/project_one_submission/blob/main/png_file/Transfer_Market.png)
 
-Please Note: For both of the visualizations above the following color code was utilized: 
-Red = French League 
-Blue = English League 
-Orange = Spanish League 
-Purple = German League 
+Please Note: For both of the visualizations above the following color code was utilized: <br>
+Red = French League <br>
+Blue = English League <br>
+Orange = Spanish League <br>
+Purple = German League <br>
 
 ##  Team Data 
 A central question to analyze how the team performed is to judge it's peformance against<br>
