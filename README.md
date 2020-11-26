@@ -23,19 +23,24 @@ comparison of the investment by the Emir against the stock market.
 ## Overview of European Soccer Transfer Market 
 #### Top 20 Teams in the 2013-2014 Season 
 
-We began our project knowing we wanted to concentrate on the European soccer market. <br>
+We began our project knowing that we wanted to concentrate on the European soccer market. <br>
 That said, given the amount of data we gathered and our time constraints we decided to focus our <br>
 analysis on the Top 20 Teams in the 2013-2014 season. <br>
 
 We selected the top 4 teams of the French League, English League, Spanish League, Italian League <br>
-and the German League. These teams are the following:  Paris Saint-Germain F.C., Lyon, Monaco, Marseille, <br>
-Manchester United, Manchester City, Arsenal, Chelsea, Barcelona, Real Madrid, Atletico Madrid, Valencia, <br>
-Bayern Munich, Juventus, Roma, Lazio, Fiorentina, and VfL Wolfsburg, M’ Gladbach, Bayer. 
+and the German League. These teams are the following: <br>
+Paris Saint-Germain F.C., Lyon, Monaco, Marseille, <br>
+Manchester United, Manchester City, Arsenal, Chelsea, <br>
+Barcelona, Real Madrid, Atletico Madrid, Valencia, <br>
+Juventus, Roma, Lazio, Fiorentina, <br>
+Bayern Munich, VfL Wolfsburg, M’ Gladbach, Bayer. 
 
 Below we created an interactive plot that has a “hover” feature which allows the end user to use their mouse <br>
 to locate each team selected based on their stadium location. 
 
 ![top_20_teams](https://github.com/dowdlea86/project_one_submission/blob/main/png_file/Top_20_Teams.png)
+
+### Transfer Market in the 2013-2014 Season 
 
 ![transfer_market](https://github.com/dowdlea86/project_one_submission/blob/main/png_file/Transfer_Market.png)
 
