@@ -29,6 +29,7 @@ analysis on the Top 20 Teams in the 2013-2014 season. <br>
 
 We selected the top 4 teams of the French League, English League, Spanish League, Italian League <br>
 and the German League. These teams are the following: <br>
+
 Paris Saint-Germain F.C., Lyon, Monaco, Marseille, <br>
 Manchester United, Manchester City, Arsenal, Chelsea, <br>
 Barcelona, Real Madrid, Atletico Madrid, Valencia, <br>
